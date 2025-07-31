@@ -1,5 +1,5 @@
 import React from 'react'
-import CanvaModel from './canvas'
+import CanvaModel from './canvas/Index'
 import Customizer from './pages/Customizer'
 import Home from './pages/Home'
 const App = () => {
